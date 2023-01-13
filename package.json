@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-rising-tonklaman",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RisingTonklaman/NodeJS-Rising-Tonklaman.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RisingTonklaman/NodeJS-Rising-Tonklaman/issues"
+  },
+  "homepage": "https://github.com/RisingTonklaman/NodeJS-Rising-Tonklaman#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
